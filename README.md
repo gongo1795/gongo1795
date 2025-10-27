@@ -88,21 +88,9 @@
 
 <br>
 
-## 🧊 3D Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/docs/demo/profile-gitblock.svg" alt="3d-contrib-demo" />
-</p>
-
 ## 🗂️ Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gongo1795&area=true&hide_border=true" alt="activity-graph" />
-</p>
-
-<br>
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 <br>
