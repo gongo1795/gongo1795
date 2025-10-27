@@ -66,6 +66,15 @@
 
 </details>
 
+<details>
+  <summary><b>🎯 장기 목표</b></summary>
+
+- 컴퓨터 활용 능력 1급
+- 정보 처리 기사
+- 토익 800점 이상
+
+</details>
+
 <br>
 
 ## 📊 GitHub 통계 (Stats)
