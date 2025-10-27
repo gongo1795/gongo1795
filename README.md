@@ -4,9 +4,6 @@
   <!-- 제목 배너 -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:4682B4,100:AFEEEE&height=200&section=header&text=안녕하세요!👋&fontSize=70&animation=fadeIn" alt="header-banner" />
 
-  <!-- 타이핑 효과 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&size=28&pause=1200&color=1E90FF&center=true&vCenter=true&width=700&lines=윤영옥+Youngok+Yoon;AISW+%2F+웹프로그래밍+학습+중;문제해결+%2F+알고리즘+연습+중" alt="typing-banner" />
-
   <!-- 조회수 -->
   <img src="https://komarev.com/ghpvc/?username=gongo1795&label=Profile%20views&color=0ca4a5&style=flat" alt="profile-views" />
 </div>
@@ -16,7 +13,7 @@
 <!-- 이름/소개 -->
 <div align="center">
   
-# 👩‍💻 윤영옥 (Youngok Yoon) 👩‍💻
+# 👩‍💻 윤영옥 (Youngok Yun) 👩‍💻
 ### 한신대학교 자유전공학부 · AISW 준비
 
 학습한 것을 작게라도 구현물로 남기며 성장합니다.
