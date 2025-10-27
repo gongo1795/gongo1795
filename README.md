@@ -71,15 +71,8 @@
 <br>
 
 ## 📫 연락
-<p align="center">
-  <a href="mailto:gongo1795@hs.ac.kr" title="Email">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="email-badge" />
-  </a>
-  <a href="https://github.com/gongo1795" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github-badge" />
-  </a>
-</p>
-
+- Email: **gongo1795@hs.ac.kr**
+- GitHub: [@gongo1795](https://github.com/gongo1795)
 
 
 <br>
