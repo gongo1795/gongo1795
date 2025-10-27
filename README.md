@@ -1,52 +1,93 @@
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:4682B4,100:AFEEEE&height=200&section=header&text=안녕하세요!&fontSize=70&animation=fadeIn" />
+
+  <!-- 제목 배너 -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:4682B4,100:AFEEEE&height=200&section=header&text=안녕하세요!👋&fontSize=70&animation=fadeIn" alt="header-banner" />
+
+  <!-- 타이핑 효과 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&size=28&pause=1200&color=1E90FF&center=true&vCenter=true&width=700&lines=윤영옥+Youngok+Yoon;AISW+%2F+웹프로그래밍+학습+중;문제해결+%2F+알고리즘+연습+중" alt="typing-banner" />
+
+  <!-- 조회수 -->
+  <img src="https://komarev.com/ghpvc/?username=gongo1795&label=Profile%20views&color=0ca4a5&style=flat" alt="profile-views" />
 </div>
 
+<br>
+
+<!-- 이름/소개 -->
 <div align="center">
   
 # 👩‍💻 윤영옥 (Youngok Yoon) 👩‍💻
-### 한신대학교 재학생
-  
+### 한신대학교 자유전공학부 · AISW 준비
+
+학습한 것을 작게라도 구현물로 남기며 성장합니다.
+
 </div>
 
 <br>
 
 ## 🚀 기술 스택 (Skills)
-<!-- 여기에 자신의 기술 스택을 아이콘으로 추가해보세요. 예: https://shields.io/ -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <br>
-  <!-- 추가하고 싶은 다른 기술 뱃지를 여기에 넣으세요 -->
+
+**언어**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+
+**웹**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+**도구**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
 </div>
 
 <br>
 
 ## 🌱 학습 중인 내용 (Currently Learning)
-- **[웹프로그래밍]:** HTML5, CSS3, 자바스크립트 등
-- **[문제해결프로그래밍]:** 파이션, 알고리즘, 프로그래밍 등
-- **[AISW수학]:** 공학 수학
+- **웹프로그래밍**: HTML5 시맨틱 마크업, 반응형 레이아웃, Flex/Grid, 접근성 기초
+- **문제해결프로그래밍**: 파이썬 기본 문법, 자료구조(스택·큐·딕셔너리), 정렬·탐색
+- **AISW수학**: 선형대수(벡터·행렬·내적), 미분·경사하강법 개념
 
 <br>
 
 ## 👨‍💻 자기소개 (About Me)
-<!-- 자기소개를 작성해주세요. -->
-- 안녕하세요! 웹 개발자를 꿈꾸는 윤영옥입니다.
+- 웹 개발자로 성장하기 위해 꾸준히 학습 중입니다.
 - 새로운 기술을 배우고 적용하는 것을 좋아합니다.
-- 현재는 웹 프로그래밍과 문제 해결 프로그래밍에 집중하고 있습니다.
+- 작은 프로젝트라도 완성하는 것을 목표로 합니다.
+
+<br>
+
+## 📊 GitHub 통계 (Stats)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gongo1795&show_icons=true&theme=default&rank_icon=percentile" height="170" alt="github-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongo1795&layout=compact" height="170" alt="top-langs" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=gongo1795" height="170" alt="contribution-streak" />
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=gongo1795&margin-w=10&margin-h=10&no-frame=true" alt="github-trophies" />
+
+</div>
 
 <br>
 
 ## 📫 연락처 (Contact)
-<!-- 다른 사람들이 자신에게 연락할 수 있는 방법을 추가하세요. -->
-- **Email:** gongo1795@hs.ac.kr
-- **GitHub:** [https://github.com/your-username](https://github.com/gongo1795)
+<p align="center">
+  <a href="mailto:gongo1795@hs.ac.kr" title="Email">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="email-badge" />
+  </a>
+  <a href="https://github.com/gongo1795" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github-badge" />
+  </a>
+</p>
 
 <br>
 
+<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:4682B4,100:AFEEEE&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:4682B4,100:AFEEEE&height=100&section=footer" alt="footer-banner" />
 </div>
