@@ -65,22 +65,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongo1795&layout=compact" height="170" alt="top-langs" />
 <br/>
 <img src="https://streak-stats.demolab.com?user=gongo1795" height="170" alt="contribution-streak" />
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=gongo1795&margin-w=10&margin-h=10&no-frame=true" alt="github-trophies" />
 
 </div>
 
 <br>
 
-## 📫 연락처 (Contact)
-<p align="center">
-  <a href="mailto:gongo1795@hs.ac.kr" title="Email">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="email-badge" />
-  </a>
-  <a href="https://github.com/gongo1795" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github-badge" />
-  </a>
-</p>
+## 📫 연락
+- Email: **gongo1795@hs.ac.kr**
+- GitHub: [@gongo1795](https://github.com/gongo1795)
+
 
 <br>
 
