@@ -56,6 +56,25 @@
 - 새로운 기술을 배우고 적용하는 것을 좋아합니다.
 - 작은 프로젝트라도 완성하는 것을 목표로 합니다.
 
+<!-- 더보기(접기블록) 추가 -->
+<details>
+  <summary><b>📚 자세한 학습 로그 펼치기</b></summary>
+
+- 웹: 시맨틱 마크업, 반응형(Flex/Grid), 접근성(aria)
+- 알고리즘: 정렬/탐색, 그리디, 스택/큐, 해시
+- AISW 수학: 선형대수(벡터·행렬·내적), 미분/경사하강법
+
+</details>
+
+<details>
+  <summary><b>🎯 단기 목표</b></summary>
+
+- 주 3회 커밋
+- 매주 1개 이슈/PR 정리
+- 월 1개 미니 프로젝트 완성
+
+</details>
+
 <br>
 
 ## 📊 GitHub 통계 (Stats)
@@ -70,10 +89,15 @@
 
 <br>
 
-## 📫 연락
-- Email: **gongo1795@hs.ac.kr**
-- GitHub: [@gongo1795](https://github.com/gongo1795)
-
+## 📫 연락 (Contact)
+<p align="center">
+  <a href="mailto:gongo1795@hs.ac.kr" title="Email">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="email-badge" />
+  </a>
+  <a href="https://github.com/gongo1795" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github-badge" />
+  </a>
+</p>
 
 <br>
 
