@@ -172,8 +172,9 @@
 <!-- ========================= Activity Graph ========================= -->
 ## 🗂️ Activity Graph
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gongo1795&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gongo1795&theme=github-light&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" alt="activity-graph" />
 </p>
+
 
 
 <br>
