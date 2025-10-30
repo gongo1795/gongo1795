@@ -137,7 +137,7 @@
 </details>
 
 <details>
-  <summary><b>🎯 단기 목표</b></summary>
+  <summary><b>🎯 단기 목표 (눌러서 보기)</b></summary>
 
 - 주 3회 커밋  
 - 매주 1개 이슈/PR 정리  
@@ -146,7 +146,7 @@
 </details>
 
 <details>
-  <summary><b>🎯 장기 목표</b></summary>
+  <summary><b>🎯 장기 목표 (눌러서 보기)</b></summary>
 
 - 컴퓨터 활용 능력 1급  
 - 정보 처리 기사  
