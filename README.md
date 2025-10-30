@@ -137,6 +137,25 @@
 
 <br>
 
+<!-- ========================= 실행(또는 배포) 방법 ========================= -->
+## 🚀 실행 방법
+
+이 프로젝트는 정적 웹페이지(HTML/CSS/JS)로 구성되어 있으며, 별도의 서버 설정 없이 바로 실행할 수 있습니다.
+
+1. GitHub에서 이 저장소를 다운로드하거나 클론합니다.
+   ```bash
+   git clone https://github.com/gongo1795/gongo1795.git
+   cd gongo1795
+
+2. 프로젝트 폴더 안에 있는 index.html 파일을 브라우저(Chrome 등)으로 열면 웹페이지가 실행됩니다.
+
+방법 A: index.html을 더블 클릭해서 열기
+
+방법 B (터미널에서):
+open index.html    # macOS
+start index.html   # Windows
+
+
 <!-- ========================= Footer ========================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=AFEEEE&height=2&section=footer" alt="divider" />
